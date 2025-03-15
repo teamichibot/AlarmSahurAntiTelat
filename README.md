@@ -31,12 +31,7 @@ Berikut adalah daftar komponen yang digunakan beserta link pembelian:
 | 9   | **Dioda**                    | 1N4007 | [🔗 Shopee](https://s.shopee.co.id/3LCj36Ubjt) |
 | 10  | **Step-down Converter**      | Mini 12V-5V | [🔗 Shopee](https://s.shopee.co.id/6AWuOBxwYA) |
 | 11  | **Resistor Pull-up**         | 10KΩ | [🔗 Shopee](https://s.shopee.co.id/10ooG16pal) |
-| 12  | **Jack DC Female**           | 5.5mm x 2.1mm | [🔗 Shopee](https://s.shopee.co.id/3AtIpYe0Id) |
-
----
-
-## ⚡ Skema Rangkaian
-📌 *(Tambahkan gambar skematik di sini, bisa dibuat dengan Fritzing atau KiCad.)*  
+| 12  | **Jack DC Female**           | 5.5mm x 2.1mm | [🔗 Shopee](https://s.shopee.co.id/3AtIpYe0Id) | 
 
 ---
 
@@ -57,18 +52,6 @@ Pastikan Anda telah menginstal library berikut sebelum mengunggah kode ke Arduin
 
 ### 🔹 **2. Wiring & Koneksi**
 Berikut adalah koneksi antar komponen pada Arduino Nano:  
-
-| Komponen          | Pin Arduino |
-|------------------|------------|
-| HX711 DOUT      | A1         |
-| HX711 SCK       | A0         |
-| TM1637 CLK      | 3          |
-| TM1637 DIO      | 2          |
-| Rotary CLK      | 4          |
-| Rotary DT       | 5          |
-| Rotary SW       | 6          |
-| LED WS2812      | 7          |
-| Buzzer          | 9 (via MOSFET) |
 
 ---
 
