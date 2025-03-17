@@ -34,7 +34,7 @@ Berikut adalah daftar komponen yang digunakan beserta link pembelian:
 | 12  | **Jack DC Female**           | 5.5mm x 2.1mm | [🔗 Shopee](https://s.shopee.co.id/3AtIpYe0Id) | 
 
 link pembelian alarm sudah jadi:
-[🔗 Shopee]([https://s.shopee.co.id/2qGSRJIe4f](https://s.shopee.co.id/5fah8AeX9n))
+[🔗 Shopee](https://s.shopee.co.id/5fah8AeX9n)
 
 ---
 
