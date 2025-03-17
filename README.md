@@ -33,6 +33,9 @@ Berikut adalah daftar komponen yang digunakan beserta link pembelian:
 | 11  | **Resistor Pull-up**         | 10KΩ | [🔗 Shopee](https://s.shopee.co.id/10ooG16pal) |
 | 12  | **Jack DC Female**           | 5.5mm x 2.1mm | [🔗 Shopee](https://s.shopee.co.id/3AtIpYe0Id) | 
 
+link pembelian alarm sudah jadi:
+[🔗 Shopee]([https://s.shopee.co.id/2qGSRJIe4f](https://s.shopee.co.id/5fah8AeX9n))
+
 ---
 
 ## 🖥 Instalasi & Setup
