@@ -52,7 +52,7 @@ Pastikan Anda telah menginstal library berikut sebelum mengunggah kode ke Arduin
 
 ### 🔹 **2. Wiring & Koneksi**
 Berikut adalah koneksi antar komponen pada Arduino Nano:  
-https://raw.githubusercontent.com/teamichibot/AlarmSahurAntiTelat/refs/heads/main/wiring%20alarm%20sahur.png
+!LogoIchibot](https://raw.githubusercontent.com/teamichibot/AlarmSahurAntiTelat/refs/heads/main/wiring%20alarm%20sahur.png)
 
 ---
 
